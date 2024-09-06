@@ -16,8 +16,8 @@ The TECADE Sign Language Interpreter is a real-time sign language recognition sy
 ## Setup
 1. **Clone the Repository**
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/fico-aditama/lomba-ai.git
+   cd lomba-ai
    ```
 
 2. **Create and Activate a Virtual Environment**
