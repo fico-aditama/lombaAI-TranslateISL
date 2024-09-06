@@ -1,0 +1,2 @@
+# Ignore Python bytecode
+models/sign_language_model.h5
