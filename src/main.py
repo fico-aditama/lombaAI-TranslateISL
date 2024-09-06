@@ -167,7 +167,7 @@ def preprocess_frame(frame):
     return np.expand_dims(frame, axis=0)
 
 def main():
-    st.title("TECADE Sign Language Interpreter")
+    st.title("TranslateISL Sign Language Interpreter")
 
     menu = ["Home", "Login", "Register", "Train", "Test", "Upload Image"]
     choice = st.sidebar.selectbox("Select Page", menu)
@@ -180,7 +180,7 @@ def main():
     model = load_or_create_model()
 
     if choice == "Home":
-        st.write("Welcome to the TECADE Sign Language Interpreter app.")
+        st.write("Welcome to the TranslateISL Sign Language Interpreter app.")
         st.subheader("Live Video Feed")
 
         # Add start and stop buttons for video feed

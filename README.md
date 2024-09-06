@@ -1,7 +1,7 @@
-# TECADE Sign Language Interpreter
+# TranslateISL Sign Language Interpreter
 
 ## Description
-The TECADE Sign Language Interpreter is a real-time sign language recognition system that utilizes a trained machine learning model to translate sign language gestures into text. The system leverages a webcam for live video capture and provides functionality for user login, registration, model training, and testing.
+The TranslateISL Sign Language Interpreter is a real-time sign language recognition system that utilizes a trained machine learning model to translate sign language gestures into text. The system leverages a webcam for live video capture and provides functionality for user login, registration, model training, and testing.
 
 ## Directory Structure
 ```
