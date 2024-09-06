@@ -16,8 +16,8 @@ The TranslateISL Sign Language Interpreter is a real-time sign language recognit
 ## Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/fico-aditama/lomba-ai.git
-   cd lomba-ai
+   git clone https://github.com/fico-aditama/lombaAI-TranslateISL.git TranslateISL
+   cd TranslateISL
    ```
 
 2. **Create and Activate a Virtual Environment**
